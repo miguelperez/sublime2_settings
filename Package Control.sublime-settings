@@ -4,7 +4,6 @@
 	[
 		"CoffeeScript",
 		"CTags",
-		"DetectSyntax",
 		"Git",
 		"Haml",
 		"Package Control",
