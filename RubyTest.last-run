@@ -1,0 +1,4 @@
+{
+	"last_test_run": "bundle exec rspec spec/models/import_data_log_spec.rb -l27",
+	"last_test_working_dir": "/Users/miguelperez/projects/dashable-miguel"
+}
