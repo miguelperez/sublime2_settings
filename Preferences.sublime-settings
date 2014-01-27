@@ -49,7 +49,6 @@
 		"tmp"
 	],
 	"font_size": 12.0,
-	"show_full_path": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -68,6 +67,7 @@
 		80
 	],
 	"save_on_focus_lost": true,
+	"show_full_path": true,
 	"show_minimap": false,
 	"tab_size": 2,
 	"theme": "Soda Light.sublime-theme",
