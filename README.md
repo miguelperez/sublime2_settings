@@ -9,6 +9,8 @@ This command creates the Installed Packages folder for you (if necessary), and t
 
 After it is installed. Just replace the directory User inside:
 
-    ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+    mv User User.old
+    git clone git@github.com:miguelperez/sublime2_settings.git User
     
 With the contents of this repository.
