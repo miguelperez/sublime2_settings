@@ -9,6 +9,6 @@ This command creates the Installed Packages folder for you (if necessary), and t
 
 After it is installed. Just replace the directory User inside:
 
-    ~/Library/Application Support/Sublime Text 2/Packages
+    ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
     
 With the contents of this repository.
